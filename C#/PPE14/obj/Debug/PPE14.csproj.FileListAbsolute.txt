@@ -1,0 +1,11 @@
+C:\Users\Heks\documents\visual studio 2013\Projects\PPE14\PPE14\bin\Debug\PPE14.exe.config
+C:\Users\Heks\documents\visual studio 2013\Projects\PPE14\PPE14\bin\Debug\PPE14.exe
+C:\Users\Heks\documents\visual studio 2013\Projects\PPE14\PPE14\bin\Debug\PPE14.pdb
+C:\Users\Heks\documents\visual studio 2013\Projects\PPE14\PPE14\obj\Debug\PPE14.form_prof.resources
+C:\Users\Heks\documents\visual studio 2013\Projects\PPE14\PPE14\obj\Debug\PPE14.form_admin.resources
+C:\Users\Heks\documents\visual studio 2013\Projects\PPE14\PPE14\obj\Debug\PPE14.form_base.resources
+C:\Users\Heks\documents\visual studio 2013\Projects\PPE14\PPE14\obj\Debug\PPE14.Properties.Resources.resources
+C:\Users\Heks\documents\visual studio 2013\Projects\PPE14\PPE14\obj\Debug\PPE14.csproj.GenerateResource.Cache
+C:\Users\Heks\documents\visual studio 2013\Projects\PPE14\PPE14\obj\Debug\PPE14.exe
+C:\Users\Heks\documents\visual studio 2013\Projects\PPE14\PPE14\obj\Debug\PPE14.pdb
+C:\Users\Heks\documents\visual studio 2013\Projects\PPE14\PPE14\obj\Debug\PPE14.csprojResolveAssemblyReference.cache
